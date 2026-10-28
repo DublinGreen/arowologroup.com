@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="zxx">
+   
+
+<head>
+      <!-- Meta -->
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="">
+      <meta name="keywords" content="">
+      <meta name="robots" content="max-image-preview:large">
+      <!-- Page Title -->
+      <title>Services | Arowolo Group</title>
+      <!-- Favicon Icon -->
+      <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
+      <!-- Bootstrap Css Link -->
+      <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+      <!-- Swiper Css -->
+      <link rel="stylesheet" href="css/swiper-bundle.min.css">
+      <!-- Mouse Cursor Css File -->
+      <link rel="stylesheet" href="css/mousecursor.css">
+      <!-- Magnific Popup Css File -->
+      <link rel="stylesheet" href="css/magnific-popup.css">
+      <!-- Font Awesome Icon Css-->
+      <link href="css/all.min.css" rel="stylesheet" media="screen">
+      <!-- SlickNav Css -->
+      <link href="css/slicknav.min.css" rel="stylesheet">
+      <!-- Animation On Scroll Css File -->
+      <link href="css/aos.css" rel="stylesheet">
+      <!-- Google Fonts Link-->
+      <link rel="preconnect" href="https://fonts.googleapis.com/">
+      <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+      <!-- Space Grotesk Fonts Link -->
+      <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400..800&amp;display=swap" rel="stylesheet">
+      <!-- DM Sans Fonts Link -->
+      <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&amp;display=swap" rel="stylesheet">
+      <!-- Carattere Fonts Link -->
+      <link href="https://fonts.googleapis.com/css2?family=Carattere&amp;display=swap" rel="stylesheet">
+      <!-- Main Custom Css -->
+      <link href="css/custom.css" rel="stylesheet" media="screen">
+   </head>
+   <body>
+      <!-- Preloader Start -->
+      <div class="sis-preloader">
+         <div class="sis-loading-container">
+            <div class="sis-loading"></div>
+            <div class="sis-loading-icon">
+               <figure class="sis-reveal">
+                  <img src="images/loader.svg" alt="Arowolo Group">
+               </figure>
+            </div>
+         </div>
+      </div>
+      <!-- Preloader End -->
+      <!-- main-banner start -->
+      <div class="sisf-page-background sis-main-banner">
+         <!-- Header New Start -->
+         <header id="sisf-page-header" class="sisf-main-header sisf-standerd-header position-relative">
+            <div class="sis-header-top">
+               <div class="container">
+                  <div class="row">
+                     <div class="col-12">
+                        <div class="sis-header_col">
+                           <div class="sisf-widget-holder">
+                              <div class="sisf-top-bar-widget d-flex align-items-center gap-4">
+                                 <div class="sisf-icon-list-item sisf-icon--icon-pack">
+                                    <a href="tel:+2348095101524" target="_self">
+                                    <span class="sisf-e-title-inner">
+                                    <span class="sisf-e-title-text"><svg class="ag-ico ag-st" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2z"/></svg> +234 809 510 1524</span>
+                                    </span>
+                                    </a>
+                                 </div>
+                                 <div class="mail-us">
+                                    <a href="mailto:contact@arowologroup.com"><span class="sisf-e-title-text"><svg class="ag-ico ag-st" viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg> contact@arowologroup.com</span></a>
+                                 </div>
+                                 <div class="sis-location">
+                                    <a href="#"><span class="sisf-e-title-text"><svg class="ag-ico ag-st" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>14 Tiso Bros Street, Asokoro, Abuja</span></a>
+                                 </div>
+                              </div>
+                              <div class="social-icons-link">
+                                 <ul class="list-unstyled p-0 m-0">
+                                    <li class="me-3"><a href="#"><svg class="ag-ico" viewBox="0 0 24 24" aria-hidden="true" fill="currentColor"><path d="M22 12a10 10 0 1 0-11.56 9.88v-6.99H7.9V12h2.54V9.8c0-2.5 1.49-3.89 3.78-3.89 1.09 0 2.24.2 2.24.2v2.47h-1.26c-1.24 0-1.63.77-1.63 1.56V12h2.78l-.44 2.89h-2.34v6.99A10 10 0 0 0 22 12z"/></svg></a></li>
+                                    <li class="me-3"><a href="#"><svg class="ag-ico" viewBox="0 0 24 24" aria-hidden="true" fill="currentColor"><rect x="3" y="3" width="18" height="18" rx="5" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="17.3" cy="6.7" r="1.2"/></svg></a></li>
+                                    <li class="me-3"><a href="#"><svg class="ag-ico" viewBox="0 0 24 24" aria-hidden="true" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></a></li>
+                                    <li><a href="#"><svg class="ag-ico" viewBox="0 0 24 24" aria-hidden="true" fill="currentColor"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.5A3 3 0 0 0 .5 6.2C0 8.1 0 12 0 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.5 9.4.5 9.4.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1c.5-1.9.5-5.8.5-5.8s0-3.9-.5-5.8zM9.6 15.6V8.4l6.2 3.6z"/></svg></a></li>
+                                 </ul>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div id="sisf-page-header-inner" class="sisf-skin--dark position-relative d-flex align-items-center">
+               <div class="container px-2">
+                  <!-- Logo Start -->
+                  <a class="navbar-brand sisf-header-logo-link mobile-block" href="index.html">
+                  <img src="images/logo.svg" alt="Logo">
+                  </a>
+                  <!-- Logo End -->
+                  <div class="sisf-centered-header-wrapper sisf--header d-flex align-items-center gap-3">
+                     <!-- Logo Start -->
+                     <a class="navbar-brand sisf-header-logo-link" href="index.html">
+                     <img src="images/logo.svg" alt="Logo">
+                     </a>
+                     <!-- Logo End -->
+                     <nav class="navbar navbar-expand-lg">
+                        <!-- Main Menu Start -->
+                        <div class="collapse navbar-collapse sis-main-menu">
+                           <div class="nav-menu-wrapper">
+                              <ul class="navbar-nav" id="menu"><li class="nav-item"><a class="nav-link" href="index.html">Home</a></li><li class="nav-item"><a class="nav-link" href="about-us.html">About</a></li><li class="nav-item"><a class="nav-link" href="team.html">Team</a></li><li class="nav-item"><a class="nav-link active" href="services.html">Services</a></li><li class="nav-item"><a class="nav-link" href="hse-esg.html">HSE &amp; ESG</a></li><li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li></ul>
+                           </div>
+                        </div>
+                        <!-- Main Menu End -->
+                     </nav>
+                     <div class="sisf-widget-holder sisf--two d-flex align-items-center ms-auto">
+                        <div class="header-btn">
+                           <a href="contact.html" class="sis-btn-default">Request Quote<svg class="ag-ico ag-st" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 12h16m-6-6 6 6-6 6"/></svg></a>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="navbar-toggle"></div>
+                  <div class="responsive-menu"></div>
+               </div>
+            </div>
+         </header>
+         <!-- Header New End -->
+         <div class="sisf-banner position-relative"><div class="banner-img"><figure><img src="images/page-banner.png" alt="Arowolo Group"></figure></div><div class="sisf-page-title sisf-m sisf-title--standard sisf-alignment--center"><div class="sisf-m-inner container"><div class="sisf-breadcrumbs mb-2"><a class="sisf-breadcrumbs-link text-white" href="index.html"><span>Home</span></a><span class="sisf-breadcrumbs-separator text-white mx-2"><svg class="ag-ico ag-st" viewBox="0 0 24 24" aria-hidden="true"><path d="m9 6 6 6-6 6"/></svg></span><span class="sisf-breadcrumbs-current text-white">Services</span></div><div class="sisf-m-content sisf-content-grid"><h1 class="sisf-m-title text-white entry-title">Services</h1></div></div></div></div></div><main><section class="ag-sec"><div class="container"><h2>Our services</h2><p>Arowolo Group offers solutions across the entire energy value chain, from equipment supply and EPCI to gas solutions and the importation, retail and bulk distribution of petroleum products.</p><ul class="ag-jump"><li><a href="#drilling-equipment">Drilling, Marine &amp; Gas Equipment Supply</a></li><li><a href="#energy-trading">Energy Trading: CNG and Petroleum Products</a></li><li><a href="#pipeline-services">Onshore and Offshore Pipeline Services</a></li><li><a href="#construction">Construction, Fabrication and Installations</a></li><li><a href="#well-intervention">Well Intervention and Completion Services</a></li><li><a href="#waste-management">Waste Management and Environmental Remediation</a></li><li><a href="#marine-logistics">Marine Logistics Services</a></li><li><a href="#downstream">Downstream Oil Services</a></li></ul><div class="ag-svx" id="drilling-equipment"><div class="row gy-4 align-items-start"><div class="col-lg-5"><img class="ag-img main" src="images/profile/wellhead-drilling.jpg" alt="Wellhead and valve assembly on a drilling site" loading="lazy"><div class="ag-gal"><img class="" src="images/profile/valves.jpg" alt="Process valves" loading="lazy"><img class="" src="images/profile/line-pipes.jpg" alt="Seamless line pipes" loading="lazy"><img class="" src="images/profile/cng-skid.jpg" alt="Gas compression skid" loading="lazy"></div></div><div class="col-lg-7"><div class="n">01</div><h3>Drilling, Marine &amp; Gas Equipment Supply</h3><p>We have a global footprint and the right OEM network to procure and supply equipment to every part of the energy sector: oil and gas, refineries, petrochemicals, power generation and marine.</p><h4>What we supply</h4><ul class="ag-dl"><li><b>Drilling equipment:</b> OCTG, drill bit accessories, coiled tubing and seamless line pipes</li><li><b>Gas equipment:</b> CNG skids, PRMS, CNG trucks, gas compressors and gas meters</li><li><b>Rotating machinery:</b> pumps, compressors and gas turbines</li><li><b>Process equipment:</b> valves, heat exchangers, vessels and filters, and piping fabrication</li><li><b>Heavy plant machinery and vehicles:</b> heavy-load plant, construction and excavation equipment</li><li><b>Industrial oils and chemicals:</b> grease, machine fluids, corrosion-prevention oil, additives and coolant oil</li><li><b>Instrumentation:</b> flow meters, pressure gauges, averaging sensors and recording tools</li></ul></div></div></div><div class="ag-svx" id="energy-trading"><div class="row gy-4 align-items-start"><div class="col-lg-5 order-lg-2"><img class="ag-img main" src="images/profile/refinery-night.jpg" alt="Processing plant and storage tank at night" loading="lazy"><div class="ag-gal"><img class="" src="images/profile/cng-station.jpg" alt="Arowolo filling station" loading="lazy"><img class="" src="images/profile/cng-trailer.jpg" alt="CNG cylinder trailer" loading="lazy"></div></div><div class="col-lg-7"><div class="n">02</div><h3>Energy Trading: CNG and Petroleum Products</h3><p>We trade and supply petroleum products and Compressed Natural Gas (CNG), backed by the same global OEM and supply network that serves our equipment business.</p><p>In line with global initiatives for sustainability and reduced reliance on fossil fuels, Arowolo Group has expanded its energy portfolio to include CNG. This strategic move underscores our commitment to environmentally friendly energy solutions while meeting the growing demand for sustainable energy sources.</p><div class="ag-sub"><h4>Our CNG stations</h4><p>Our state-of-the-art CNG daughter stations are currently 60% complete and will soon be operational, serving CNG-powered automobiles.</p></div></div></div></div><div class="ag-svx" id="pipeline-services"><div class="row gy-4 align-items-start"><div class="col-lg-5"><img class="ag-img main" src="images/profile/pipeline-sunset.jpg" alt="Engineer inspecting a pipeline at sunset" loading="lazy"><div class="ag-gal"><img class="" src="images/profile/pipeline-white.jpg" alt="Above-ground pipeline installation" loading="lazy"><img class="" src="images/profile/gas-plant.jpg" alt="Gas processing facility" loading="lazy"></div></div><div class="col-lg-7"><div class="n">03</div><h3>Onshore and Offshore Pipeline Services</h3><p>For several years, Arowolo Group has worked with industry partners to deliver innovative solutions across the pipeline system lifecycle, at onshore and offshore locations. Through our products and services we maximize uptime, improve throughput, avoid shutdowns and minimize risk, helping to ensure energy is delivered safely.</p><p>We keep pipeline infrastructure operating safely, whether it carries oil, gas or new energy sources such as hydrogen.</p><h4>Our solutions include</h4><ul class="ag-tags"><li>Pipeline integrity</li><li>Integrity testing and maintenance</li><li>Pipeline pigging</li><li>Cathodic protection</li></ul></div></div></div><div class="ag-svx" id="construction"><div class="row gy-4 align-items-start"><div class="col-lg-5 order-lg-2"><img class="ag-img main" src="images/profile/welder.jpg" alt="Welder fabricating a pipe section" loading="lazy"><div class="ag-gal"><img class="" src="images/profile/technician-valves.jpg" alt="Technician working on valves" loading="lazy"></div></div><div class="col-lg-7"><div class="n">04</div><h3>Construction, Fabrication and Installations</h3><p>Arowolo Group delivers superior value by employing innovative construction and installation procedures and methodologies.</p><p>We provide end-to-end construction and installation services: design, construct, operate and maintain. Our bespoke offering allows us to complete every project to the client&rsquo;s requirements while keeping to our standards of cost-effective ideas and high-quality resources.</p><div class="ag-sub"><h4>Safety and quality first</h4><p>Safety and quality are our priority, and we care deeply about the safety of our people and the environment.</p></div><ul class="ag-tags"><li>Design</li><li>Construction</li><li>Fabrication</li><li>Installation</li><li>Operation</li><li>Maintenance</li></ul></div></div></div><div class="ag-svx" id="well-intervention"><div class="row gy-4 align-items-start"><div class="col-lg-5"><img class="ag-img main" src="images/profile/wellhead.jpg" alt="Wellhead on an onshore field" loading="lazy"><div class="ag-gal"><img class="" src="images/profile/pumpjacks.jpg" alt="Pumpjacks and wellhead" loading="lazy"><img class="" src="images/profile/drilling-rig-pipes.jpg" alt="Drill pipes on a rig" loading="lazy"></div></div><div class="col-lg-7"><div class="n">05</div><h3>Well Intervention and Completion Services</h3><p>We provide support services that are crucial for maximizing oil and gas recovery, maintaining well integrity, and ensuring the safe and efficient operation of our clients&rsquo; assets.</p><h4>Services</h4><ul class="ag-tags"><li>Wellhead services</li><li>Well control</li><li>Well overhauling</li><li>Stimulation</li><li>Coiled tubing services</li><li>Nitrogen services</li></ul></div></div></div><div class="ag-svx" id="waste-management"><div class="row gy-4 align-items-start"><div class="col-lg-5 order-lg-2"><img class="ag-img main" src="images/profile/shore-cleanup.jpg" alt="Crew cleaning up an oil spill on a shoreline" loading="lazy"><div class="ag-gal"><img class="" src="images/profile/spill-boom.jpg" alt="Containment boom on a polluted creek" loading="lazy"><img class="" src="images/profile/restored-wetland.jpg" alt="Restored wetland" loading="lazy"></div></div><div class="col-lg-7"><div class="n">06</div><h3>Waste Management and Environmental Remediation</h3><p>Arowolo Group is active in hazardous and non-hazardous waste management. We offer a full spectrum of services: characterization, minimization, collection, separation, treatment, recycling and final disposal of waste.</p><p>Our trained personnel have the experience and know-how, and our scientific methods, latest technology and modern equipment guarantee high-end waste management services.</p><h4>Services</h4><ul class="ag-tags"><li>Oil spill response</li><li>Sea surface cleaning</li><li>Shore cleaning and remediation</li><li>Hazardous waste management</li><li>Non-hazardous waste management</li><li>Recycling and recovery</li><li>Cleaning and disinfection</li></ul></div></div></div><div class="ag-svx" id="marine-logistics"><div class="row gy-4 align-items-start"><div class="col-lg-5"><img class="ag-img main" src="images/profile/marine-port.jpg" alt="Container vessel and cranes at a port" loading="lazy"></div><div class="col-lg-7"><div class="n">07</div><h3>Marine Logistics Services</h3><p>Together with our partners, Arowolo Group operates and maintains offshore support vessels that provide support services on oil and gas projects for hook-up, upgrades, modifications and SCADA, as well as installation and commissioning of offshore wellheads for tie-in.</p><h4>Offshore marine support</h4><p>Vessels available to us and our partners include:</p><ul class="ag-tags"><li>Jack-up barge</li><li>Crew boat</li><li>VSP mooring boat</li><li>Supply vessel</li><li>FSIV</li><li>Work boat</li></ul><h4>Procurement services</h4><p>Our dedicated marine construction and procurement team provides cost-effective, efficient solutions covering:</p><ul class="ag-tags"><li>Logistics trucks and warehouses</li><li>Best practice in cost containment</li><li>Operating to a strict code of ethics</li><li>Procurement compliance</li></ul><h4>Hook-up and commissioning</h4><ul class="ag-tags"><li>Marine logistics</li><li>Offshore hook-up and commissioning</li><li>Topside maintenance</li><li>Offshore wellhead tie-ins</li><li>Supply of offshore equipment</li></ul></div></div></div><div class="ag-svx" id="downstream"><div class="row gy-4 align-items-start"><div class="col-lg-5 order-lg-2"><img class="ag-img main" src="images/profile/tanker-truck.jpg" alt="Arowolo petroleum tanker truck" loading="lazy"><div class="ag-gal"><img class="" src="images/profile/filling-station-cng.jpg" alt="Arowolo filling station with CNG" loading="lazy"><img class="" src="images/profile/tanker-arowolo.jpg" alt="Arowolo tanker" loading="lazy"><img class="" src="images/profile/vacuum-truck.jpg" alt="Service truck on site" loading="lazy"></div></div><div class="col-lg-7"><div class="n">08</div><h3>Downstream Oil Services</h3><p>Arowolo Group provides integrated downstream oil and gas solutions that support the efficient storage, transportation, distribution and retail delivery of petroleum products across the value chain. Through our technical expertise, strategic partnerships and commitment to operational excellence, we provide safe, reliable and cost-effective services that optimize product availability and keep supply chains running smoothly.</p><div class="ag-sub"><h4>Petroleum products supply</h4><p>We are committed to the reliable supply and distribution of petroleum products to meet the energy needs of businesses, industries and consumers. Our downstream operations focus on timely, efficient delivery of quality products, with high standards of safety, operational excellence and customer satisfaction. Our supply activities support business continuity, energy accessibility and sustainable growth across the petroleum value chain.</p></div><div class="ag-sub"><h4>Bulk trading of petroleum products</h4><p>We trade in bulk petroleum products, including Automotive Gas Oil (AGO), Premium Motor Spirit (PMS), Dual Purpose Kerosene (DPK), Liquefied Petroleum Gas (LPG) and Aviation Turbine Kerosene (ATK). We handle the sourcing, purchase and distribution of these products for industrial, commercial, aviation and domestic consumers. Through reliable supply, efficient logistics, quality assurance and industry compliance, we build strong business relationships and deliver dependable energy solutions.</p></div><div class="ag-sub"><h4>Downstream oil and gas services</h4><p>Our service areas include retail station development and management, storage facility development and operations, fuel haulage and transportation, supply chain and product logistics management, and the supply of lubricants and industrial chemicals. We also deliver LPG and CNG infrastructure solutions, fuel quality assurance and product testing, procurement and distribution of downstream equipment, and asset integrity and maintenance services, meeting the evolving needs of commercial, industrial and retail customers.</p></div><h4>Downstream services at a glance</h4><ul class="ag-tags"><li>Petroleum products supply and distribution</li><li>Bulk trading of AGO, PMS, DPK, LPG and ATK</li><li>Depot operations and management</li><li>Storage facility development and operations</li><li>Retail filling station development and management</li><li>Fuel haulage and transportation</li><li>Supply chain and product logistics</li><li>Lubricants and industrial chemicals</li><li>LPG and CNG infrastructure</li><li>Fuel quality assurance and testing</li><li>Downstream equipment procurement</li><li>Asset integrity and maintenance</li></ul></div></div></div></div></section><section class="ag-cta"><div class="container d-flex flex-wrap justify-content-between align-items-center gap-3"><h2>Have a project or supply need? Talk to us.</h2><a class="ag-btn m-0" href="contact.html">Contact us</a></div></section></main><!-- Footer Start -->
+      <footer class="main-footer">
+         <div class="sisf-page-footer-inner-area sisf-sis-comman-background">
+            <div class="sisf-page-footer-middle-area">
+               <div class="container">
+                  <div class="row">
+                     <div class="col-lg-4 col-md-6">
+                        <div class="footer-logo mb-3" data-aos="fade-up" data-aos-delay="100">
+                           <a href="index.html">
+                           <img src="images/logo-white.svg" alt="Arowolo Group">
+                           </a>
+                        </div>
+                        <div class="sis-m-text">
+                           <p class="text-white">An indigenous, integrated energy services company delivering EPCI, gas solutions and petroleum distribution since 2010.</p>
+                        </div>
+                        <div class="subscribe-newsletter-form pt-3">
+                           <form id="newslettersForm">
+                              <div class="form-group position-relative d-flex align-items-center">
+                                 <input type="email" name="email" class="form-control p-0 border-0 mb-0" id="mail"
+                                    placeholder="Get Expert Consultation" required="">
+                                 <span><svg class="ag-ico ag-st" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 12h16m-6-6 6 6-6 6"/></svg></span>
+                              </div>
+                           </form>
+                        </div>
+                     </div>
+                     <div class="col-lg-8">
+                        <div class="sisf-sis-comman-drop-bg sis-radius p-4">
+                           <div class="row">
+                              <div class="col-lg-3 col-md-6">
+                                 <!-- Links Start -->
+                                 <div class="footer-links page">
+                                    <h3 class="text-white">QUICK LINKS</h3>
+                                    <ul>
+                                       <li><a href="index.html" class="text-white">Home</a></li>
+                                       <li><a href="about-us.html" class="text-white">About Us</a></li>
+<li><a href="team.html" class="text-white">Our Team</a></li>
+                                       <li><a href="services.html" class="text-white">Services</a></li>
+                                       <li><a href="hse-esg.html" class="text-white">HSE &amp; ESG</a></li>
+                                       <li><a href="contact.html" class="text-white">Contact Us</a></li>
+                                    </ul>
+                                 </div>
+                                 <!-- Links End -->
+                              </div>
+                              <div class="col-lg-4 col-md-6">
+                                 <!-- Links Start -->
+                                 <div class="footer-links page">
+                                    <h3 class="text-white">Our Services</h3>
+                                    <ul>
+                                       <li><a href="services.html" class="text-white">Equipment Supply</a></li>
+                                       <li><a href="services.html" class="text-white">Pipeline Services</a></li>
+                                       <li><a href="services.html" class="text-white">Waste &amp; Remediation</a></li>
+                                       <li><a href="services.html" class="text-white">CNG &amp; Petroleum Trading</a></li>
+                                       <li><a href="services.html" class="text-white">Marine Logistics</a></li>
+                                       <li><a href="services.html" class="text-white">Downstream Oil Services</a></li>
+                                    </ul>
+                                 </div>
+                                 <!-- Links End -->
+                              </div>
+                              <div class="col-lg-5 col-12">
+                                 <!-- Links Start -->
+                                 <div class="footer-links page">
+                                    <h3 class="text-white">CONTACT INFORMATIONS</h3>
+                                    <div class="sisf-sis-contact-information">
+                                       <div class="sisf-contact-box mb-3 d-flex align-items-center gap-3">
+                                          <div class="sisf-icon">
+                                             <a href="tel:+2348095101524"><svg class="ag-ico ag-st" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2z"/></svg></a>
+                                          </div>
+                                          <div class="sisf-sis-e-content">
+                                             <span class="sis-title d-block">Call us on</span>
+                                             <a href="tel:+2348095101524" class="sis-title d-block">+234 809 510 1524</a>
+                                          </div>
+                                       </div>
+                                       <div class="sisf-contact-box mb-3 d-flex align-items-center gap-3">
+                                          <div class="sisf-icon">
+                                             <a href="mailto:contact@arowologroup.com"><svg class="ag-ico ag-st" viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg></a>
+                                          </div>
+                                          <div class="sisf-sis-e-content">
+                                             <span class="sis-title d-block">Reach out</span>
+                                             <a href="mailto:contact@arowologroup.com"
+                                                class="sis-title d-block">contact@arowologroup.com</a>
+                                          </div>
+                                       </div>
+                                       <div class="sisf-contact-box mb-3 d-flex align-items-center gap-3">
+                                          <div class="sisf-icon">
+                                             <a href="#"><svg class="ag-ico ag-st" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></svg></a>
+                                          </div>
+                                          <div class="sisf-sis-e-content">
+                                             <span class="sis-title d-block">Location</span>
+                                             <a href="#" class="sis-title d-block">KM 46, Lekki-Epe Expressway, Lagos State</a>
+                                          </div>
+                                       </div>
+                                       <div class="sisf-contact-box d-flex align-items-center gap-3">
+                                          <div class="sisf-icon">
+                                             <a href="#"><svg class="ag-ico ag-st" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg></a>
+                                          </div>
+                                          <div class="sisf-sis-e-content">
+                                             <span class="sis-title d-block">Working Hours</span>
+                                             <a href="#" class="sis-title d-block">Mon – Fri: 9:00 AM – 6:00 PM</a>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                                 <!-- Links End -->
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="sisf-page-footer-bottom-area">
+               <div class="container">
+                  <!-- Footer Copyright Section Start -->
+                  <div class="footer-copyright py-4">
+                     <div class="row">
+                        <div class="col-lg-4">
+                           <!-- Footer Copyright Start -->
+                           <div class="footer-copyright-text">
+                              <p class="mb-0 sisf-e-main-color">&copy; 2026 Arowolo Group. All Rights Reserved</p>
+                           </div>
+                           <!-- Footer Copyright End -->
+                        </div>
+                        <div class="col-lg-4">
+                           <div class="footer-social-icons-link page" data-aos="fade-up" data-aos-delay="300">
+                              <ul class="list-unstyled d-flex align-items-center justify-content-center gap-2 p-0 m-0">
+                                 <li><a href="#" class="mb-0"><svg class="ag-ico" viewBox="0 0 24 24" aria-hidden="true" fill="currentColor"><path d="M22 12a10 10 0 1 0-11.56 9.88v-6.99H7.9V12h2.54V9.8c0-2.5 1.49-3.89 3.78-3.89 1.09 0 2.24.2 2.24.2v2.47h-1.26c-1.24 0-1.63.77-1.63 1.56V12h2.78l-.44 2.89h-2.34v6.99A10 10 0 0 0 22 12z"/></svg></a>
+                                 </li>
+                                 <li><a href="#" class="mb-0"><svg class="ag-ico" viewBox="0 0 24 24" aria-hidden="true" fill="currentColor"><rect x="3" y="3" width="18" height="18" rx="5" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="17.3" cy="6.7" r="1.2"/></svg></a>
+                                 </li>
+                                 <li><a href="#" class="mb-0"><svg class="ag-ico" viewBox="0 0 24 24" aria-hidden="true" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></a>
+                                 </li>
+                                 <li><a href="#" class="mb-0"><svg class="ag-ico" viewBox="0 0 24 24" aria-hidden="true" fill="currentColor"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.5A3 3 0 0 0 .5 6.2C0 8.1 0 12 0 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.5 9.4.5 9.4.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1c.5-1.9.5-5.8.5-5.8s0-3.9-.5-5.8zM9.6 15.6V8.4l6.2 3.6z"/></svg></a>
+                                 </li>
+                              </ul>
+                           </div>
+                        </div>
+                        <div class="col-lg-4">
+                           <div class="footer-privacy-policy">
+                              <ul class="list-unstyled d-flex align-items-center justify-content-end gap-4 p-0 m-0">
+                                 <li><a href="#" class="sisf-e-main-color">Talk to Arowolo Group</a></li>
+                                 <li><a href="#" class="sisf-e-main-color">Privacy &amp; Terms</a></li>
+                              </ul>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <!-- Footer Copyright Section End -->
+               </div>
+               <div class="sis-scroll-container sisf-page">
+                  <div class="sis-scroll-content">
+                     <div class="sis-footer-content"><span>Integrated Energy Solutions</span></div>
+                     <div class="sis-footer-content"><span>Integrated Energy Solutions</span></div>
+                     <div class="sis-footer-content"><span>Integrated Energy Solutions</span></div>
+                     <div class="sis-footer-content"><span>Integrated Energy Solutions</span></div>
+                  </div>
+                  <div class="sis-scroll-content ms-4">
+                     <div class="sis-footer-content"><span>Integrated Energy Solutions</span></div>
+                     <div class="sis-footer-content"><span>Integrated Energy Solutions</span></div>
+                     <div class="sis-footer-content"><span>Integrated Energy Solutions</span></div>
+                     <div class="sis-footer-content"><span>Integrated Energy Solutions</span></div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </footer>
+      <!-- Footer End -->
+      <!-- Cursor Start -->
+      <div class="sisf-cursor sisf-js-cursor">
+         <div class="sisf-cursor-wrapper">
+            <div class="sisf-cursor--follower sisf-js-follower"></div>
+            <div class="sisf-cursor--label sisf-js-label"></div>
+            <div class="sisf-cursor--drap sisf-js-drap"></div>
+            <div class="sisf-cursor--icon sisf-js-icon"></div>
+         </div>
+      </div>
+      <!-- Cursor End -->
+      <!-- Back to Top Button Start -->
+      <div class="sis-back-to-top-button">
+         <button class="sis-back-to-top" id="backToTop">
+         <span class="mt-1"><svg class="ag-ico ag-st" viewBox="0 0 24 24" aria-hidden="true"><path d="m6 15 6-6 6 6"/></svg></span>
+         </button>
+      </div>
+      <!-- Back to Top Button End -->
+      <!-- Jquery Library File -->
+      <script src="js/jquery-3.7.1.min.js"></script>
+      <!-- Bootstrap js File -->
+      <script src="js/bootstrap.min.js"></script>
+      <!-- Validator js file -->
+      <script src="js/validator.min.js"></script>
+      <!-- SlickNav js File -->
+      <script src="js/jquery.slicknav.js"></script>
+      <!-- Swiper js File -->
+      <script src="js/swiper-bundle.min.js"></script>
+      <!-- Animation On Scroll Js File -->
+      <script src="js/aos.js"></script>
+      <!-- Counter js File -->
+      <script src="js/jquery.waypoints.min.js"></script>
+      <script src="js/jquery.counterup.min.js"></script>
+      <!-- Magnific js File -->
+      <script src="js/jquery.magnific-popup.min.js"></script>
+      <!-- Gsap Js File -->
+      <script src="js/gsap.min.js"></script>
+      <!-- Cursor Js File -->
+      <script src="js/magiccursor.js"></script>
+      <!-- Text Effect js file -->
+      <script src="js/ScrollTrigger.min.js"></script>
+      <script src="js/SplitText.js"></script>
+      <!-- Main Custom js file -->
+      <script src="js/script.js"></script>
+   </body>
+
+
+</html>

@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="zxx">
+   
+
+<head>
+      <!-- Meta -->
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="">
+      <meta name="keywords" content="">
+      <meta name="robots" content="max-image-preview:large">
+      <!-- Page Title -->
+      <title>About Us | Arowolo Group</title>
+      <!-- Favicon Icon -->
+      <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
+      <!-- Bootstrap Css Link -->
+      <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+      <!-- Swiper Css -->
+      <link rel="stylesheet" href="css/swiper-bundle.min.css">
+      <!-- Mouse Cursor Css File -->
+      <link rel="stylesheet" href="css/mousecursor.css">
+      <!-- Magnific Popup Css File -->
+      <link rel="stylesheet" href="css/magnific-popup.css">
+      <!-- Font Awesome Icon Css-->
+      <link href="css/all.min.css" rel="stylesheet" media="screen">
+      <!-- SlickNav Css -->
+      <link href="css/slicknav.min.css" rel="stylesheet">
+      <!-- Animation On Scroll Css File -->
+      <link href="css/aos.css" rel="stylesheet">
+      <!-- Google Fonts Link-->
+      <link rel="preconnect" href="https://fonts.googleapis.com/">
+      <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+      <!-- Space Grotesk Fonts Link -->
+      <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400..800&amp;display=swap" rel="stylesheet">
+      <!-- DM Sans Fonts Link -->
+      <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&amp;display=swap" rel="stylesheet">
+      <!-- Carattere Fonts Link -->
+      <link href="https://fonts.googleapis.com/css2?family=Carattere&amp;display=swap" rel="stylesheet">
+      <!-- Main Custom Css -->
+      <link href="css/custom.css" rel="stylesheet" media="screen">
+   </head>
+   <body>
+      <!-- Preloader Start -->
+      <div class="sis-preloader">
+         <div class="sis-loading-container">
+            <div class="sis-loading"></div>
+            <div class="sis-loading-icon">
+               <figure class="sis-reveal">
+                  <img src="images/loader.svg" alt="Arowolo Group">
+               </figure>
+            </div>
+         </div>
+      </div>
+      <!-- Preloader End -->
+      <!-- main-banner start -->
+      <div class="sisf-page-background sis-main-banner">
+         <!-- Header New Start -->
+         <header id="sisf-page-header" class="sisf-main-header sisf-standerd-header position-relative">
+            <div class="sis-header-top">
+               <div class="container">
+                  <div class="row">
+                     <div class="col-12">
+                        <div class="sis-header_col">
+                           <div class="sisf-widget-holder">
+                              <div class="sisf-top-bar-widget d-flex align-items-center gap-4">
+                                 <div class="sisf-icon-list-item sisf-icon--icon-pack">
+                                    <a href="tel:+2348095101524" target="_self">
+                                    <span class="sisf-e-title-inner">
+                                    <span class="sisf-e-title-text"><svg class="ag-ico ag-st" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2z"/></svg> +234 809 510 1524</span>
+                                    </span>
+                                    </a>
+                                 </div>
+                                 <div class="mail-us">
+                                    <a href="mailto:contact@arowologroup.com"><span class="sisf-e-title-text"><svg class="ag-ico ag-st" viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg> contact@arowologroup.com</span></a>
+                                 </div>
+                                 <div class="sis-location">
+                                    <a href="#"><span class="sisf-e-title-text"><svg class="ag-ico ag-st" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>14 Tiso Bros Street, Asokoro, Abuja</span></a>
+                                 </div>
+                              </div>
+                              <div class="social-icons-link">
+                                 <ul class="list-unstyled p-0 m-0">
+                                    <li class="me-3"><a href="#"><svg class="ag-ico" viewBox="0 0 24 24" aria-hidden="true" fill="currentColor"><path d="M22 12a10 10 0 1 0-11.56 9.88v-6.99H7.9V12h2.54V9.8c0-2.5 1.49-3.89 3.78-3.89 1.09 0 2.24.2 2.24.2v2.47h-1.26c-1.24 0-1.63.77-1.63 1.56V12h2.78l-.44 2.89h-2.34v6.99A10 10 0 0 0 22 12z"/></svg></a></li>
+                                    <li class="me-3"><a href="#"><svg class="ag-ico" viewBox="0 0 24 24" aria-hidden="true" fill="currentColor"><rect x="3" y="3" width="18" height="18" rx="5" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="17.3" cy="6.7" r="1.2"/></svg></a></li>
+                                    <li class="me-3"><a href="#"><svg class="ag-ico" viewBox="0 0 24 24" aria-hidden="true" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></a></li>
+                                    <li><a href="#"><svg class="ag-ico" viewBox="0 0 24 24" aria-hidden="true" fill="currentColor"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.5A3 3 0 0 0 .5 6.2C0 8.1 0 12 0 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.5 9.4.5 9.4.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1c.5-1.9.5-5.8.5-5.8s0-3.9-.5-5.8zM9.6 15.6V8.4l6.2 3.6z"/></svg></a></li>
+                                 </ul>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div id="sisf-page-header-inner" class="sisf-skin--dark position-relative d-flex align-items-center">
+               <div class="container px-2">
+                  <!-- Logo Start -->
+                  <a class="navbar-brand sisf-header-logo-link mobile-block" href="index.html">
+                  <img src="images/logo.svg" alt="Logo">
+                  </a>
+                  <!-- Logo End -->
+                  <div class="sisf-centered-header-wrapper sisf--header d-flex align-items-center gap-3">
+                     <!-- Logo Start -->
+                     <a class="navbar-brand sisf-header-logo-link" href="index.html">
+                     <img src="images/logo.svg" alt="Logo">
+                     </a>
+                     <!-- Logo End -->
+                     <nav class="navbar navbar-expand-lg">
+                        <!-- Main Menu Start -->
+                        <div class="collapse navbar-collapse sis-main-menu">
+                           <div class="nav-menu-wrapper">
+                              <ul class="navbar-nav" id="menu"><li class="nav-item"><a class="nav-link" href="index.html">Home</a></li><li class="nav-item"><a class="nav-link active" href="about-us.html">About</a></li><li class="nav-item"><a class="nav-link" href="team.html">Team</a></li><li class="nav-item"><a class="nav-link" href="services.html">Services</a></li><li class="nav-item"><a class="nav-link" href="hse-esg.html">HSE &amp; ESG</a></li><li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li></ul>
+                           </div>
+                        </div>
+                        <!-- Main Menu End -->
+                     </nav>
+                     <div class="sisf-widget-holder sisf--two d-flex align-items-center ms-auto">
+                        <div class="header-btn">
+                           <a href="contact.html" class="sis-btn-default">Request Quote<svg class="ag-ico ag-st" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 12h16m-6-6 6 6-6 6"/></svg></a>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="navbar-toggle"></div>
+                  <div class="responsive-menu"></div>
+               </div>
+            </div>
+         </header>
+         <!-- Header New End -->
+         <div class="sisf-banner position-relative"><div class="banner-img"><figure><img src="images/page-banner.png" alt="Arowolo Group"></figure></div><div class="sisf-page-title sisf-m sisf-title--standard sisf-alignment--center"><div class="sisf-m-inner container"><div class="sisf-breadcrumbs mb-2"><a class="sisf-breadcrumbs-link text-white" href="index.html"><span>Home</span></a><span class="sisf-breadcrumbs-separator text-white mx-2"><svg class="ag-ico ag-st" viewBox="0 0 24 24" aria-hidden="true"><path d="m9 6 6 6-6 6"/></svg></span><span class="sisf-breadcrumbs-current text-white">About Us</span></div><div class="sisf-m-content sisf-content-grid"><h1 class="sisf-m-title text-white entry-title">About Us</h1></div></div></div></div></div><main><section class="ag-sec"><div class="container"><div class="row gy-5 align-items-center"><div class="col-lg-7"><h2>About Arowolo Group</h2><p>Arowolo Group of Companies Limited, incorporated in 2010, is an indigenous and integrated service provider within the energy industry. We offer comprehensive solutions across the entire energy value chain, focusing on Engineering, Procurement, Construction and Installation (EPCI) services, gas solutions (CNG), and the importation, retail and bulk distribution of petroleum products.</p><p>With a vast network of Original Equipment Manufacturers (OEMs), our technical expertise and a highly skilled workforce, we deliver optimal, bespoke solutions to our customers and stakeholders. Our operations are driven by well-structured processes, adherence to global best practices and a customer-centric approach.</p><p>We pride ourselves on aligning our business priorities with the economic and environmental needs of our clients, industry regulatory guidelines and continual process improvement.</p><p>We are committed to building sustainable, quality business relationships with clients and stakeholders through effective partnership and service delivery, optimizing and adding value to client operations.</p></div><div class="col-lg-5"><img class="ag-img main" src="images/profile/tanker-arowolo.jpg" alt="Arowolo branded fuel tanker" loading="lazy"><div class="mt-4"><div class="ag-fact"><b>2010</b>Year of incorporation</div><div class="ag-fact"><b>8</b>Service lines across the energy value chain</div><div class="ag-fact"><b>Lagos &amp; Abuja</b>Our offices</div></div></div></div></div></section><section class="ag-sec ag-dark"><div class="container"><div class="row gy-4"><div class="col-md-6"><h2>Vision</h2><p>To be the provider of world-class products tailored to the satisfaction of all stakeholders.</p></div><div class="col-md-6"><h2>Mission</h2><p>Through defined processes and committed, purpose-driven staff, we edge out our competitors by capitalizing on our uninterrupted and consistent supply of quality products, at the best prices.</p></div></div><h3 class="mt-4 mb-3">Core values</h3><div class="ag-vals"><span>Excellence</span><span>Audacity</span><span>Grit</span><span>Professionalism</span><span>Passion</span><span>Innovation</span></div></div></section><section class="ag-sec"><div class="container"><div class="row gy-4 align-items-center"><div class="col-lg-6"><img class="ag-img main" src="images/profile/restored-wetland.jpg" alt="Restored natural environment" loading="lazy"></div><div class="col-lg-6"><h2>Arowolo Royal Foundation</h2><p>Beyond our core business, Arowolo Group is deeply committed to the development of host communities and stakeholders through our charitable foundation, the Arowolo Royal Foundation (ARF).</p><p>The foundation supports host communities with sustained, comprehensive interventions and infrastructure development projects. This work continues to promote mutual cooperation and foster lasting growth.</p></div></div></div></section><section class="ag-sec ag-alt"><div class="container"><h2>Our operations</h2><p>From the wellhead to the filling station, our teams and partners keep energy moving safely across Nigeria.</p><div class="ag-strip"><figure><img class="" src="images/profile/filling-station-cng.jpg" alt="Retail and CNG stations" loading="lazy"><figcaption>Retail and CNG stations</figcaption></figure><figure><img class="" src="images/profile/tanker-truck.jpg" alt="Fuel haulage" loading="lazy"><figcaption>Fuel haulage</figcaption></figure><figure><img class="" src="images/profile/welder.jpg" alt="Fabrication and installation" loading="lazy"><figcaption>Fabrication and installation</figcaption></figure><figure><img class="" src="images/profile/pipeline-sunset.jpg" alt="Pipeline services" loading="lazy"><figcaption>Pipeline services</figcaption></figure></div></div></section><section class="ag-sec"><div class="container"><h2>Our clients</h2><p>Companies we have worked for, directly or indirectly.</p><ul class="ag-logos"><li><img src="images/clients/nnpc.png" alt="NNPC" title="NNPC" loading="lazy"></li><li><img src="images/clients/exxonmobil.png" alt="ExxonMobil" title="ExxonMobil" loading="lazy"></li><li><img src="images/clients/chevron.png" alt="Chevron" title="Chevron" loading="lazy"></li><li><img src="images/clients/agip.png" alt="Agip" title="Agip" loading="lazy"></li><li><img src="images/clients/amni.png" alt="AMNI International Petroleum Development Company" title="AMNI International Petroleum Development Company" loading="lazy"></li><li><img src="images/clients/ap.png" alt="Ardova Plc" title="Ardova Plc" loading="lazy"></li><li><img src="images/clients/aradel.png" alt="Aradel Holdings" title="Aradel Holdings" loading="lazy"></li><li><img src="images/clients/shell.png" alt="Shell" title="Shell" loading="lazy"></li><li><img src="images/clients/dangote.png" alt="Dangote" title="Dangote" loading="lazy"></li><li><img src="images/clients/forte-oil.png" alt="Forte Oil" title="Forte Oil" loading="lazy"></li><li><img src="images/clients/lekoil.png" alt="Lekoil" title="Lekoil" loading="lazy"></li><li><img src="images/clients/totalenergies.png" alt="TotalEnergies" title="TotalEnergies" loading="lazy"></li><li><img src="images/clients/seplat.png" alt="Seplat Energy" title="Seplat Energy" loading="lazy"></li><li><img src="images/clients/saipem.png" alt="Saipem" title="Saipem" loading="lazy"></li></ul></div></section><section class="ag-cta"><div class="container d-flex flex-wrap justify-content-between align-items-center gap-3"><h2>Have a project or supply need? Talk to us.</h2><a class="ag-btn m-0" href="contact.html">Contact us</a></div></section></main><!-- Footer Start -->
+      <footer class="main-footer">
+         <div class="sisf-page-footer-inner-area sisf-sis-comman-background">
+            <div class="sisf-page-footer-middle-area">
+               <div class="container">
+                  <div class="row">
+                     <div class="col-lg-4 col-md-6">
+                        <div class="footer-logo mb-3" data-aos="fade-up" data-aos-delay="100">
+                           <a href="index.html">
+                           <img src="images/logo-white.svg" alt="Arowolo Group">
+                           </a>
+                        </div>
+                        <div class="sis-m-text">
+                           <p class="text-white">An indigenous, integrated energy services company delivering EPCI, gas solutions and petroleum distribution since 2010.</p>
+                        </div>
+                        <div class="subscribe-newsletter-form pt-3">
+                           <form id="newslettersForm">
+                              <div class="form-group position-relative d-flex align-items-center">
+                                 <input type="email" name="email" class="form-control p-0 border-0 mb-0" id="mail"
+                                    placeholder="Get Expert Consultation" required="">
+                                 <span><svg class="ag-ico ag-st" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 12h16m-6-6 6 6-6 6"/></svg></span>
+                              </div>
+                           </form>
+                        </div>
+                     </div>
+                     <div class="col-lg-8">
+                        <div class="sisf-sis-comman-drop-bg sis-radius p-4">
+                           <div class="row">
+                              <div class="col-lg-3 col-md-6">
+                                 <!-- Links Start -->
+                                 <div class="footer-links page">
+                                    <h3 class="text-white">QUICK LINKS</h3>
+                                    <ul>
+                                       <li><a href="index.html" class="text-white">Home</a></li>
+                                       <li><a href="about-us.html" class="text-white">About Us</a></li>
+<li><a href="team.html" class="text-white">Our Team</a></li>
+                                       <li><a href="services.html" class="text-white">Services</a></li>
+                                       <li><a href="hse-esg.html" class="text-white">HSE &amp; ESG</a></li>
+                                       <li><a href="contact.html" class="text-white">Contact Us</a></li>
+                                    </ul>
+                                 </div>
+                                 <!-- Links End -->
+                              </div>
+                              <div class="col-lg-4 col-md-6">
+                                 <!-- Links Start -->
+                                 <div class="footer-links page">
+                                    <h3 class="text-white">Our Services</h3>
+                                    <ul>
+                                       <li><a href="services.html" class="text-white">Equipment Supply</a></li>
+                                       <li><a href="services.html" class="text-white">Pipeline Services</a></li>
+                                       <li><a href="services.html" class="text-white">Waste &amp; Remediation</a></li>
+                                       <li><a href="services.html" class="text-white">CNG &amp; Petroleum Trading</a></li>
+                                       <li><a href="services.html" class="text-white">Marine Logistics</a></li>
+                                       <li><a href="services.html" class="text-white">Downstream Oil Services</a></li>
+                                    </ul>
+                                 </div>
+                                 <!-- Links End -->
+                              </div>
+                              <div class="col-lg-5 col-12">
+                                 <!-- Links Start -->
+                                 <div class="footer-links page">
+                                    <h3 class="text-white">CONTACT INFORMATIONS</h3>
+                                    <div class="sisf-sis-contact-information">
+                                       <div class="sisf-contact-box mb-3 d-flex align-items-center gap-3">
+                                          <div class="sisf-icon">
+                                             <a href="tel:+2348095101524"><svg class="ag-ico ag-st" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2z"/></svg></a>
+                                          </div>
+                                          <div class="sisf-sis-e-content">
+                                             <span class="sis-title d-block">Call us on</span>
+                                             <a href="tel:+2348095101524" class="sis-title d-block">+234 809 510 1524</a>
+                                          </div>
+                                       </div>
+                                       <div class="sisf-contact-box mb-3 d-flex align-items-center gap-3">
+                                          <div class="sisf-icon">
+                                             <a href="mailto:contact@arowologroup.com"><svg class="ag-ico ag-st" viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg></a>
+                                          </div>
+                                          <div class="sisf-sis-e-content">
+                                             <span class="sis-title d-block">Reach out</span>
+                                             <a href="mailto:contact@arowologroup.com"
+                                                class="sis-title d-block">contact@arowologroup.com</a>
+                                          </div>
+                                       </div>
+                                       <div class="sisf-contact-box mb-3 d-flex align-items-center gap-3">
+                                          <div class="sisf-icon">
+                                             <a href="#"><svg class="ag-ico ag-st" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></svg></a>
+                                          </div>
+                                          <div class="sisf-sis-e-content">
+                                             <span class="sis-title d-block">Location</span>
+                                             <a href="#" class="sis-title d-block">KM 46, Lekki-Epe Expressway, Lagos State</a>
+                                          </div>
+                                       </div>
+                                       <div class="sisf-contact-box d-flex align-items-center gap-3">
+                                          <div class="sisf-icon">
+                                             <a href="#"><svg class="ag-ico ag-st" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg></a>
+                                          </div>
+                                          <div class="sisf-sis-e-content">
+                                             <span class="sis-title d-block">Working Hours</span>
+                                             <a href="#" class="sis-title d-block">Mon – Fri: 9:00 AM – 6:00 PM</a>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                                 <!-- Links End -->
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="sisf-page-footer-bottom-area">
+               <div class="container">
+                  <!-- Footer Copyright Section Start -->
+                  <div class="footer-copyright py-4">
+                     <div class="row">
+                        <div class="col-lg-4">
+                           <!-- Footer Copyright Start -->
+                           <div class="footer-copyright-text">
+                              <p class="mb-0 sisf-e-main-color">&copy; 2026 Arowolo Group. All Rights Reserved</p>
+                           </div>
+                           <!-- Footer Copyright End -->
+                        </div>
+                        <div class="col-lg-4">
+                           <div class="footer-social-icons-link page" data-aos="fade-up" data-aos-delay="300">
+                              <ul class="list-unstyled d-flex align-items-center justify-content-center gap-2 p-0 m-0">
+                                 <li><a href="#" class="mb-0"><svg class="ag-ico" viewBox="0 0 24 24" aria-hidden="true" fill="currentColor"><path d="M22 12a10 10 0 1 0-11.56 9.88v-6.99H7.9V12h2.54V9.8c0-2.5 1.49-3.89 3.78-3.89 1.09 0 2.24.2 2.24.2v2.47h-1.26c-1.24 0-1.63.77-1.63 1.56V12h2.78l-.44 2.89h-2.34v6.99A10 10 0 0 0 22 12z"/></svg></a>
+                                 </li>
+                                 <li><a href="#" class="mb-0"><svg class="ag-ico" viewBox="0 0 24 24" aria-hidden="true" fill="currentColor"><rect x="3" y="3" width="18" height="18" rx="5" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="17.3" cy="6.7" r="1.2"/></svg></a>
+                                 </li>
+                                 <li><a href="#" class="mb-0"><svg class="ag-ico" viewBox="0 0 24 24" aria-hidden="true" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></a>
+                                 </li>
+                                 <li><a href="#" class="mb-0"><svg class="ag-ico" viewBox="0 0 24 24" aria-hidden="true" fill="currentColor"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.5A3 3 0 0 0 .5 6.2C0 8.1 0 12 0 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.5 9.4.5 9.4.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1c.5-1.9.5-5.8.5-5.8s0-3.9-.5-5.8zM9.6 15.6V8.4l6.2 3.6z"/></svg></a>
+                                 </li>
+                              </ul>
+                           </div>
+                        </div>
+                        <div class="col-lg-4">
+                           <div class="footer-privacy-policy">
+                              <ul class="list-unstyled d-flex align-items-center justify-content-end gap-4 p-0 m-0">
+                                 <li><a href="#" class="sisf-e-main-color">Talk to Arowolo Group</a></li>
+                                 <li><a href="#" class="sisf-e-main-color">Privacy &amp; Terms</a></li>
+                              </ul>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <!-- Footer Copyright Section End -->
+               </div>
+               <div class="sis-scroll-container sisf-page">
+                  <div class="sis-scroll-content">
+                     <div class="sis-footer-content"><span>Integrated Energy Solutions</span></div>
+                     <div class="sis-footer-content"><span>Integrated Energy Solutions</span></div>
+                     <div class="sis-footer-content"><span>Integrated Energy Solutions</span></div>
+                     <div class="sis-footer-content"><span>Integrated Energy Solutions</span></div>
+                  </div>
+                  <div class="sis-scroll-content ms-4">
+                     <div class="sis-footer-content"><span>Integrated Energy Solutions</span></div>
+                     <div class="sis-footer-content"><span>Integrated Energy Solutions</span></div>
+                     <div class="sis-footer-content"><span>Integrated Energy Solutions</span></div>
+                     <div class="sis-footer-content"><span>Integrated Energy Solutions</span></div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </footer>
+      <!-- Footer End -->
+      <!-- Cursor Start -->
+      <div class="sisf-cursor sisf-js-cursor">
+         <div class="sisf-cursor-wrapper">
+            <div class="sisf-cursor--follower sisf-js-follower"></div>
+            <div class="sisf-cursor--label sisf-js-label"></div>
+            <div class="sisf-cursor--drap sisf-js-drap"></div>
+            <div class="sisf-cursor--icon sisf-js-icon"></div>
+         </div>
+      </div>
+      <!-- Cursor End -->
+      <!-- Back to Top Button Start -->
+      <div class="sis-back-to-top-button">
+         <button class="sis-back-to-top" id="backToTop">
+         <span class="mt-1"><svg class="ag-ico ag-st" viewBox="0 0 24 24" aria-hidden="true"><path d="m6 15 6-6 6 6"/></svg></span>
+         </button>
+      </div>
+      <!-- Back to Top Button End -->
+      <!-- Jquery Library File -->
+      <script src="js/jquery-3.7.1.min.js"></script>
+      <!-- Bootstrap js File -->
+      <script src="js/bootstrap.min.js"></script>
+      <!-- Validator js file -->
+      <script src="js/validator.min.js"></script>
+      <!-- SlickNav js File -->
+      <script src="js/jquery.slicknav.js"></script>
+      <!-- Swiper js File -->
+      <script src="js/swiper-bundle.min.js"></script>
+      <!-- Animation On Scroll Js File -->
+      <script src="js/aos.js"></script>
+      <!-- Counter js File -->
+      <script src="js/jquery.waypoints.min.js"></script>
+      <script src="js/jquery.counterup.min.js"></script>
+      <!-- Magnific js File -->
+      <script src="js/jquery.magnific-popup.min.js"></script>
+      <!-- Gsap Js File -->
+      <script src="js/gsap.min.js"></script>
+      <!-- Cursor Js File -->
+      <script src="js/magiccursor.js"></script>
+      <!-- Text Effect js file -->
+      <script src="js/ScrollTrigger.min.js"></script>
+      <script src="js/SplitText.js"></script>
+      <!-- Main Custom js file -->
+      <script src="js/script.js"></script>
+   </body>
+
+
+</html>
